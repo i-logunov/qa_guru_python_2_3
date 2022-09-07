@@ -8,3 +8,7 @@ def test_2():
 
 def test_3():
     assert 12 > 3
+
+
+def test_test():
+    assert 1 > 0
