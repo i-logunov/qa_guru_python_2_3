@@ -12,3 +12,7 @@ def test_3():
 
 def test_4():
     assert 50 < 66
+
+
+def test_test():
+    assert 1 > 0
